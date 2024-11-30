@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arad <3
-- 👀 I’m interested in {IDK (Maybe u :3)}
+- 👀 I’m interested in {IDK (Maybe ML)}
 - 🌱 I’m currently learning {Python(Data Analysis & Django), C++}
 - 💞️ I’m looking to collaborate on {No one :)}
 - 📫 How to reach me {Discord}
