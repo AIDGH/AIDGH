@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Arad! 👋</h1>
 
-<h3 align="center">Computer Engineering Student @ Sharif University of Technology | AI Enthusiast | Indie Game Dev</h3>
+<h3 align="center">Computer Engineering Student @ Sharif University of Technology | AI Enthusiast | Indie Game Dev | Web Dev</h3>
 
 <br/>
 
@@ -15,7 +15,7 @@
 - 🎓 I'm currently studying **Computer Engineering** at **Sharif University of Technology**.
 - 🧠 I'm highly passionate about **Artificial Intelligence**, **Machine Learning**, and **Project Management**.
 - 🕹️ When I'm not debugging algorithms or designing hardware circuits, I'm developing my own **2D platformer game** using Unity.
-- 🏋️‍♂️ Away from the keyboard, you can find me crushing a 4-day split at the gym, drinking good coffee, or playing *Hollow Knight* and *Hades*.
+- 🏋️‍♂️ Away from the keyboard, you can find me crushing a 3-day split at the gym, drinking good coffee, or watching series.
 - 🇪🇸 ¡Hola! I'm also on a long streak of learning Spanish! 
 
 ---
@@ -24,7 +24,7 @@
 
 **Languages & Core:**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,c,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,c,html,css,js" alt="Languages" />
 
 **Game Dev & Tools:**
 <br/>
