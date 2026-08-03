@@ -16,7 +16,6 @@
 - 🧠 I'm highly passionate about **Artificial Intelligence**, **Machine Learning**, and **Project Management**.
 - 🕹️ When I'm not debugging algorithms or designing hardware circuits, I'm developing my own **2D platformer game** using Unity.
 - 🏋️‍♂️ Away from the keyboard, you can find me crushing a 3-day split at the gym, drinking good coffee, or watching series.
-- 🇪🇸 ¡Hola! I'm also on a long streak of learning Spanish! 
 
 ---
 
