@@ -27,7 +27,7 @@
 
 **Languages & Core:**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,c,html,css,js" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,c,java,html,css,js,verilog" alt="Languages" />
 
 **Game Dev & Tools:**
 <br/>
