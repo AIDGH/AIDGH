@@ -34,10 +34,7 @@
 
 At **Jaryan–Yektanet**, I worked on:
 
-- **Match MVP** — A mobile-first marketplace connecting businesses with publishers and content creators. Built with Expo / React Native, FastAPI, SQLAlchemy, Alembic, and PostgreSQL. **Private repository.**
 - **Hotel-Yab** — A hotel discovery platform featuring verified information about notable people associated with each hotel.
-
-My freelance work includes **Cinema Namayesh** (a cinema and arts news website) and **Bahar Almas** (a promotional game).
 
 ### 🛠️ Tech Stack
 
